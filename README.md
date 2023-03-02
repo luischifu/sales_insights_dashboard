@@ -4,4 +4,4 @@
 
 ![image](https://user-images.githubusercontent.com/84356661/222382164-9cf16baf-630a-49b5-b962-f228dd535d9b.png)
 
-<p>Build a dashboard using a mysql database as data source. In this dashboard you can see the amount of revenue generated and the amount of sales. From there you can filter it by several aspects, such as location, most consuming customers, most consumed products, filters by date and a timeline of the sales behavior over time.</p>
+<p>Build a dashboard using mysql database as data source. In this dashboard you can see the amount of revenue generated and the amount of sales. From there you can filter it by several aspects, such as location, most consuming customers, most consumed products, filters by date and a timeline of the sales behavior over time.</p>
